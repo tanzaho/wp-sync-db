@@ -1,6 +1,6 @@
 {
   "name": "wp-sync-db/wp-sync-db",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "homepage": "https://github.com/wp-sync-db/wp-sync-db",
   "license": "GPL-2.0",
   "description": "WP Sync DB eliminates the manual work of migrating a WP database.",
